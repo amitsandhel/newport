@@ -13,9 +13,10 @@ Note: this script requires:
         1) Python 2.7
         2) PySerial (Python library that you will need to install separately via pip install)
         #http://pythonhosted.org/pyserial/
-        3) Windows 7. 
+        3) Windows 7 Operating system
         
-Note that the hardware manual for the machine is found in the manuals folder. 
+Note that the hardware manual for the machine is found in the manuals folder. an example of the output is found in the examples
+folder as a text file.  
 
 
 # Instructions:
