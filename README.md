@@ -1,13 +1,12 @@
 # newport ARC LAMP POWER SUPPLY MODEL 69907
 python code to run the # newport ARC LAMP POWER SUPPLY MODEL 69907
 
-humidity.py
+newport.py
 
-Created by Amit Sandhel on May 12 2015  
+Created by Amit Sandhel on May 6 2016 
 
-This software script is able to run the api comands to run Omegas HX90A humidity sensor
-this is a read only sensor with a built in temperature, humidity, relatively humidity and dewpoint values
-all at once. 
+This software script is able to run the api comands to run the newport ARC LAMP POWER SUPPLY MODEL 69907 commands
+to extract machine infromation as a text file which is saved in an excel file for graphing purposes.
 
 Note: this script requires:
         1) Python 2.7
