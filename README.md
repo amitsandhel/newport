@@ -1,5 +1,5 @@
 # newport
-python code to run the newport ARC LAMP POWER SUPPLY MODEL 69907
+python code to run the # newport ARC LAMP POWER SUPPLY MODEL 69907
 
 humidity.py
 
@@ -14,15 +14,13 @@ Note: this script requires:
         2) PySerial (Python library that you will need to install separately via pip install)
         #http://pythonhosted.org/pyserial/
         3) Windows 7. 
-
-REFERENCES 
-#http://stackoverflow.com/questions/3850531/convert-python-string-to-its-ascii-representants
-#http://pythonhosted.org/pyserial
+        
+Note that the hardware manual for the machine is found in the manuals folder. 
 
 
-Instructions:
+# Instructions:
 Open a Python 2.7 terminal in a virtualenv 
 Run the following command "python humidity.py"
 
-TODO:
+# TODO:
 add capabilities for Linux 
