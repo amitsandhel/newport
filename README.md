@@ -1,4 +1,4 @@
-# newport
+# newport ARC LAMP POWER SUPPLY MODEL 69907
 python code to run the # newport ARC LAMP POWER SUPPLY MODEL 69907
 
 humidity.py
